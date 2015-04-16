@@ -303,10 +303,10 @@ Cardboard-compatible applications.
 Open the Google Cardboard app, select "Settings" menu option, click on
 "Switch viewer" and scan the generated QR code.
 
-<img src="images/cardboard_app.png" width="180">
-<img src="images/default_viewer.png" width="180">
-<img src="images/viewer_scanning.png" width="180">
-<img src="images/names_configured.png" width="180">
+<img src="images/cardboard_app.png" width="200">
+<img src="images/default_viewer.png" width="200">
+<img src="images/viewer_scanning.png" width="200">
+<img src="images/names_configured.png" width="200">
 
 If the profile generation went well, all of the Google Cardboard apps should
 now be adapted to work perfectly in your new VR viewer!
