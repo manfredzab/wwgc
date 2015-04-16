@@ -270,7 +270,7 @@ are straight.
 the field of view when viewing the scene in the VR headset.
 
   <img src="images/incorrect_coeff-1.png" width="419">
-  <img src="images/incorrect_coeff-2.png" width="461">
+  <img src="images/incorrect_coeff-2.png" width="419">
 
 #### Advanced viewer parameters
 
@@ -304,6 +304,7 @@ Open the Google Cardboard app, select "Configuration" menu option, click on
 "Switch viewer" and scan the generated QR code.
 
 <img src="images/cardboard_app.png" width="221">
+<img src="images/viewer_scanning.png" width="221">
 <img src="images/default_viewer.png" width="221">
 
 If the profile generation went well, all of the Google Cardboard apps should
