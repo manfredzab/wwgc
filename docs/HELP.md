@@ -220,7 +220,7 @@ one eye at a time).
   * <strong>Incorrect tray to lens-center distance</strong>: when viewing in your VR headset, the lens center markers appear not centered
 vertically.
 
-  <img src="images/lens-unequal.png" width="349">
+  <img src="images/lens-unequal.png" width="382">
 
  If this is the case, re-measure the tray to lens-center distance
 on your physical viewer, and make sure that you have chosen a correct "Screen
