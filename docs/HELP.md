@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Google Cardboard app ecosystem is growing fast: the Google Play Store contains hundreds of apps compatible with Google Cardboard. The Play Store also contains a [dedicated Cardboard app collection](https://play.google.com/store/apps/collection/promotion_3001011_cardboard_featured_apps), which features the best of these apps.
+Google Cardboard app ecosystem is growing fast: the Google Play Store contains hundreds of apps compatible with Google Cardboard, YouTube contains tens of thousands of 360° videos. The Play Store also contains a [dedicated Cardboard app collection](http://play.google.com/store/apps/collection/promotion_collections_cardboard), which features the best of these apps.
 
 VR viewers can come in a wide variety of shapes and sizes. Use the viewer
 profile generation tool to ensure that Cardboard apps work properly with your
