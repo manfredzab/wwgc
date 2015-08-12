@@ -1,7 +1,7 @@
 Viewer profile generator
 ==================================
 
-The viewer profile generator is a tool for deriving the viewer
+The viewer profile generator is a tool for creating the viewer
 device profile used by [Google Cardboard](https://www.google.com/get/cardboard/) SDK's.
 You can use this tool if you're creating a Google Cardboard-inspired device
 with different optics, inputs or dimensions.
@@ -29,7 +29,7 @@ the rendering parameters to be updated dynamically as you change fields in
 the form.
 
 The result is a Cardboard device URI which you can use to generate
-QR codes or NFC tags by which users can pair your viewer with their
+a QR viewer profile by which users can pair your viewer with their
 mobile phone or other device.
 
 Web app approach
@@ -44,8 +44,6 @@ required for correct rendering are 1) a Cardboard viewer profile, and
 
 However, there are also a number of limitations to this approach:
 
-  * Chrome for Android doesn't support full screen.  See
-    https://code.google.com/p/chromium/issues/detail?id=378412
   * No way to get physical screen properties. See the following enlightening rant:
     [Let's get physical (units)](http://smus.com/physical-units/).
   * Magnets may cause orientation drift problems -
