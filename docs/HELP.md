@@ -258,6 +258,8 @@ the field of view when viewing the scene in the VR headset.
   <img src="images/incorrect_coeff-1.png" width="419">
   <img src="images/incorrect_coeff-2.png" width="419">
 
+<strong>Note</strong>: for any singlet lens with non-zero curvature, the distortion coefficients <strong>should not be set to 0.00</strong>. The viewer profile generator will not allow you to create a viewer profile if the coefficients are set to zero.
+
 #### Advanced viewer parameters
 
 To configure the advanced viewer parameters, select the checkbox "Advanced
