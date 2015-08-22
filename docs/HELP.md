@@ -67,12 +67,10 @@ screen. If you see a popup that says "Mobile device display properties
 unknown", then the phone cannot be used for calibration because the physical
 screen size info is unavailable.
 
-<img src="images/scene.png">
-
-_Calibration VR scene on the smartphone_
-
 After opening the VR scene on your smartphone, insert the smartphone into your
 viewer and proceed with entering the details of your viewer into your browser as described below.
+
+<img src="images/scene.png">
 
 ### Step 2. Company and viewer details
 
