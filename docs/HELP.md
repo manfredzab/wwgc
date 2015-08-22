@@ -283,13 +283,13 @@ magnetometer should not be used.
 ### Step 4. QR Viewer Profile Generation
 
 After performing the steps above, click on the "Generate Profile" button.
-The next page contains a generated viewer profile which you can test with
+The next page contains a generated viewer profile which you can use with
 Cardboard-compatible applications.
 
 <img src="images/QR-preview.png" width="390">
 
-Open the Google Cardboard app, select "Settings" menu option, click on
-"Switch viewer" and scan the generated QR code.
+To test the generated profile, open the Google Cardboard app, select "Settings"
+menu option, click on "Switch viewer" and scan the generated QR code.
 
 <img src="images/cardboard_app.png" width="200">
 <img src="images/default_viewer.png" width="200">
