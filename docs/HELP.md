@@ -286,7 +286,7 @@ After performing the steps above, click on the "Generate Profile" button.
 The next page contains a generated viewer profile which you can use with
 Cardboard-compatible applications.
 
-<img src="images/QR-preview.png" width="390">
+<img src="images/QR-preview.png" width="800">
 
 To test the generated profile, open the Google Cardboard app, select "Settings"
 menu option, click on "Switch viewer" and scan the generated QR code.
