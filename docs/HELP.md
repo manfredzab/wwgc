@@ -58,7 +58,7 @@ bigger than the smartphone screen facing apertures) on your viewer.
 
 ### Step 1. Viewing the VR scene on your smartphone
 
-Open the [viewer profile generator](https://voyg0eji.firebaseapp.com/) on your desktop browser and scan the QR code using a smartphone:
+Open the [viewer profile generator](http://www.google.com/get/cardboard/viewerprofilegenerator/) on your desktop browser and scan the QR code using a smartphone:
 
 <img src="images/vpg_welcome.png">
 
