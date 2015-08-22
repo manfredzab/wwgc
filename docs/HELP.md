@@ -36,27 +36,14 @@ this usage guide, please contact [wwgc@google.com](mailto:wwgc@google.com).
 
 In order to create a viewer profile successfully, you will need a suitable
 smartphone for viewing the lens calibration VR scene. The recommended phones
-for viewing this VR scene are Samsung Galaxy S5 (Android) and Apple iPhone 6
+for viewing this VR scene are Samsung Galaxy S6 (Android) and Apple iPhone 6
 Plus (iOS).
 
 If you are using a different smartphone, here are the minimal requirements for
 the smartphone.
 
-  1. The  smartphone should be able to render the scene in full screen. To that end,
-  you should use an Android smartphone which does not have the physical
-  navigation keys. This will ensure that the software navigation keys like back
-  or home buttons are not visible when viewing the VR scene:
-
-  <img src="images/physical_navkeys.jpg">
-  
-  _Physical navigation keys on Samsung Galaxy S5_
-
-  If you do not have access to an Android phone with the physical navigation
-  keys, download and install the [GMD Full Screen Immersive Mode](https://play.google.com/store/apps/details?id=com.gmd.immersive) app which can temporarily hide the software navigation buttons.
-
-  <img src="images/gmd_fullscreen.png">
-  
-  _Software navigation keys hidden using the GMD Full Screen Immersive Mode._
+  1. The smartphone should have the Google Chrome 44+ browser on Android, or
+Mobile Safari 8+ browser on iOS.
 
   2. The smartphone screen should be bigger than the total visible screen area (i.e.
 bigger than the smartphone screen facing apertures) on your viewer.
