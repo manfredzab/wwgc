@@ -282,7 +282,7 @@ magnetometer should not be used.
 
 ### Step 4. QR Viewer Profile Generation
 
-After performing the steps above, click on the "Generated profile >" button.
+After performing the steps above, click on the "Generate Profile" button.
 The next page contains a generated viewer profile which you can test with
 Cardboard-compatible applications.
 
