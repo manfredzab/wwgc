@@ -60,7 +60,7 @@ bigger than the smartphone screen facing apertures) on your viewer.
 
 Open the [viewer profile generator](http://www.google.com/get/cardboard/viewerprofilegenerator/) on your desktop browser and scan the QR code using a smartphone:
 
-<img src="images/vpg_welcome.png">
+<img src="images/vpg_welcome.png" width="500">
 
 When the scene opens on your phone, tap the screen once to show it in full
 screen. If you see a popup that says "Mobile device display properties
@@ -68,15 +68,15 @@ unknown", then the phone cannot be used for calibration because the physical
 screen size info is unavailable.
 
 After opening the VR scene on your smartphone, insert the smartphone into your
-viewer and proceed with entering the details of your viewer into your browser as described below.
+viewer and proceed with entering the details of your viewer into your browser as illustrated below.
 
-<img src="images/scene.png">
+<img src="images/scene.png" width="200">
 
 ### Step 2. Company and viewer details
 
 Start by entering the company and viewer names:
 
-<img src="images/enter_names.png" width="443">
+<img src="images/enter_names.png" width="300">
 
 These names will be visible to the users during the viewer "pairing" and other
 flows in Google Cardboard-compatible apps.
@@ -88,7 +88,7 @@ flows in Google Cardboard-compatible apps.
 After entering the company and viewer names, describe the inputs on your
 viewer. In particular, describe the primary button on your device:
 
-<img src="images/primary_button.png" width="624">
+<img src="images/primary_button.png" width="400">
 
   * If your device has no inputs and the smartphone screen is not accessible,
 choose "NONE". Similarly, choose "NONE" if your device has a separate Bluetooth
@@ -113,7 +113,7 @@ Measure the distance between the smartphone screen and the lenses of your
 viewer using a ruler or a caliper as shown in the diagram below, and enter the
 distance in millimeters into the "Screen to lens distance (mm)" field.
 
-<img src="images/screen-lens-1.png" width="258"> <img src="images/screen-lens-2.jpg" width="326">
+<img src="images/screen-lens-1.png" width="225"> <img src="images/screen-lens-2.jpg" width="326">
 
 If your viewer comes with an adjustable focal distance, measure the average
 distance between the screen and the lenses.
@@ -127,7 +127,7 @@ Measure the distance between the centers of your viewer's lenses using a ruler
 or a caliper as shown in the diagram below, and enter this distance in
 millimeters into the "Inter-lens distance (mm)" field.
 
-<img src="images/lens-lens-1.png" width="266"> <img src="images/lens-lens-2.jpg" width="309">
+<img src="images/lens-lens-1.png" width="214"> <img src="images/lens-lens-2.jpg" width="309">
 
 If your viewer comes with an adjustable inter-lens distance to accommodate
 varying IPDs, measure the average distance between the screen and the lenses.
@@ -231,7 +231,7 @@ Google Cardboard SDKs approximate the ideal distortion model by exposing <img sr
 
 If you know your lens distortion <img src="images/k1.png"> and <img src="images/k2.png"> coefficients, insert them into the "Distortion coefficients" field.
 
-<img src = "images/dist_coefficients.png">
+<img src = "images/dist_coefficients.png" width="150">
 
 To <strong>empirically</strong> establish these coefficients or to double-check that the coefficients which
 you have entered are correct, open the VR scene on your smartphone as described
@@ -262,8 +262,8 @@ the field of view when viewing the scene in the VR headset.
 
 #### Advanced viewer parameters
 
-To configure the advanced viewer parameters, select the checkbox "Advanced
-viewer parameters" at the top right corner of "Viewer parameters" form.
+To configure the advanced viewer parameters, expand the "Advanced
+viewer parameters" section at the bottom of "Viewer parameters" form.
 
 <img src="images/AVP.png" width="365">
 
