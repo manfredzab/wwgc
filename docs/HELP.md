@@ -188,7 +188,7 @@ If you chose "BOTTOM" or "TOP" options for "Screen vertical alignment", measure
 the tray to lens-center distance from the bottom/top of your viewer planes
 respectively and enter it into the "Tray to lens-center distance (mm)" field.
 
-<img src="images/enter_SVA.png" width="495">
+<img src="images/enter_SVA.png" width="350">
 
 To ensure that you have entered the screen vertical distance correctly, verify
 that the red markers appear in the vertical center of the visible
