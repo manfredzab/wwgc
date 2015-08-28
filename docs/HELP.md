@@ -50,11 +50,11 @@ bigger than the smartphone screen facing apertures) on your viewer.
 
     * This phone’s screen is NOT large enough for viewer profile creation:
     
-      <img src="images/screen_too_small.png">
+      <img src="images/screen_too_small.png" width="400">
 
     * This phone has a large enough screen for viewer profile creation:
     
-      <img src="images/screen_big_enough.png">
+      <img src="images/screen_big_enough.png" width="400">
 
 ### Step 1. Viewing the VR scene on your smartphone
 
