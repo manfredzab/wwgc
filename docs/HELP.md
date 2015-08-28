@@ -50,7 +50,7 @@ bigger than the smartphone screen facing apertures) on your viewer.
 
     * This phone’s screen is NOT large enough for viewer profile creation:
     
-      <img src="images/screen_too_small.png" width="390">
+      <img src="images/screen_too_small.png" width="380">
 
     * This phone has a large enough screen for viewer profile creation:
     
